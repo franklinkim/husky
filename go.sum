@@ -625,5 +625,7 @@ mvdan.cc/sh/v3 v3.2.1 h1:uQBpiGM+rEuHse3Q+W7ajuJUeOtFVJUN/6GeX4/dUWE=
 mvdan.cc/sh/v3 v3.2.1/go.mod h1:fPQmabBpREM/XQ9YXSU5ZFZ/Sm+PmKP9/vkFHgYKJEI=
 mvdan.cc/sh/v3 v3.2.2 h1:UpH3jtOUEXBWXZg35bnRukUjsB6UR+nNhhXCi2dGKOs=
 mvdan.cc/sh/v3 v3.2.2/go.mod h1:fPQmabBpREM/XQ9YXSU5ZFZ/Sm+PmKP9/vkFHgYKJEI=
+mvdan.cc/sh/v3 v3.2.4 h1:+fZaWcXWRjYAvqzEKoDhDM3DkxdDUykU2iw0VMKFe9s=
+mvdan.cc/sh/v3 v3.2.4/go.mod h1:fPQmabBpREM/XQ9YXSU5ZFZ/Sm+PmKP9/vkFHgYKJEI=
 rsc.io/binaryregexp v0.2.0 h1:HfqmD5MEmC0zvwBuF187nq9mdnXjXsSivRiXN7SmRkE=
 rsc.io/binaryregexp v0.2.0/go.mod h1:qTv7/COck+e2FymRvadv62gMdZztPaShugOCi3I+8D8=
